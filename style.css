@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-vid-size{
+    height: 100vh;
+}
+
+.carousel-caption{
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-top: 15%;
+    top: 2%;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.carousel-caption h3{
+    font-size: 50px;
+}
+
+.carousel-caption p{
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+
+
+.pt-4{
+    padding-left: 10%;
+    padding: 10px;
+
+}
+
+ 
+.py-4 i{
+    border: 2px solid deepskyblue;
+    border-radius: 90px;
+    height: 65px;
+    padding: 14px;
+    font-size: 28px; 
+    width: 65px;   
+}
+
+.py-4 :hover i{
+    color: white;
+    background-color:deepskyblue;
+}
+
+/*  
+.py-4{
+    padding-left: 8%;
+} */
+
+.py-4 p{
+    color: black;
+}
+
+
+
+
+/* .link-foot a{
+    display:block;
+    color: gray;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+.link-foot a:hover{
+    color: white;
+ 
+}
+
+small{
+
+    color: white;
+    
+}
+
+address{
+    color: white;
+}
+ 
+.icon-foot i{
+    color: blue;
+    margin: 10px;
+    font-size: 18px;
+} */
